@@ -1,0 +1,22 @@
+{
+  "name": "webcontracts",
+  "version": "0.0.1",
+  "description": "webcontracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidpayorg/webcontracts.git"
+  },
+  "keywords": [
+    "webcontracts"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solidpayorg/webcontracts/issues"
+  },
+  "homepage": "https://github.com/solidpayorg/webcontracts#readme"
+}
